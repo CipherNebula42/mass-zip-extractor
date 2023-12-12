@@ -9,7 +9,7 @@ Mass Zip Extractor is a Python script with a simple GUI that allows you to effic
 Follow these steps to set up and run the Mass Zip Extractor on your local machine:
 
 ### Prerequisites
-
+go to tags to v1 then get 1.0.zip thr rel not working
 - Python 3.x installed on your machine. If you don't have it, you can download it [here](https://www.python.org/downloads/).
 
 ### Installation
