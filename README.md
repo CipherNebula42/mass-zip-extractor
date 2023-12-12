@@ -19,4 +19,4 @@ Follow these steps to set up and run the Mass Zip Extractor on your local machin
 2. Install setuptools:
 
    ```bash
-   python -m pip install --upgrade setuptools
+   python -m pip install setuptools
